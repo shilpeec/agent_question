@@ -1,78 +1,54 @@
 {
-  "chemical_reactions": [
+  "science": [
     {
       "text": "Define the term 'corrosion'. List two methods to prevent corrosion of metals.",
-      "year": "2020",
-      "marks": 2,
-      "answer": "Corrosion is the process by which metals are gradually eaten away due to a chemical reaction with moisture, air, or other chemicals. Two methods to prevent corrosion are: (i) Painting or applying a protective coating, (ii) Galvanization (coating with zinc)."
+       "answer": "Corrosion is the process by which metals are gradually eaten away due to a chemical reaction with moisture, air, or other chemicals. Two methods to prevent corrosion are: (i) Painting or applying a protective coating, (ii) Galvanization (coating with zinc)."
     },
     {
       "text": "Write a balanced chemical equation for the reaction between sodium carbonate and hydrochloric acid.",
-      "year": "2021",
-      "marks": 1,
       "answer": "Na2CO3 + 2HCl → 2NaCl + H2O + CO2"
     },
     {
       "text": "What happens when zinc granules are added to dilute sulphuric acid? Write the chemical equation.",
-      "year": "2022",
-      "marks": 2,
       "answer": "When zinc granules are added to dilute sulphuric acid, hydrogen gas is evolved and zinc sulphate is formed. \nChemical equation: Zn + H2SO4 → ZnSO4 + H2↑"
     },
   
     {
       "text": "State Ohm's law. Write its mathematical expression.",
-      "year": "2021",
-      "marks": 2,
       "answer": "Ohm’s law states that the current through a conductor is directly proportional to the potential difference across its ends at constant temperature. \nMathematical expression: V = IR"
     },
     {
       "text": "Calculate the current flowing through a resistor of 5Ω when potential difference of 10V is applied across it.",
-      "year": "2022",
-      "marks": 3,
       "answer": "Using Ohm's Law, I = V/R = 10V / 5Ω = 2A. \nSo, the current flowing is 2 amperes."
     },
     {
       "text": "Define electric power. Express it in terms of voltage and current.",
-      "year": "2020",
-      "marks": 2,
       "answer": "Electric power is the rate at which electrical energy is consumed in a circuit. \nIt is given by: P = VI, where P is power, V is voltage, and I is current."
     },
  
     {
       "text": "Define the term 'refractive index'. What is its unit?",
-      "year": "2021",
-      "marks": 2,
       "answer": "Refractive index is the ratio of the speed of light in vacuum to the speed of light in the given medium. \nIt has no unit (it is a ratio)."
     },
     {
       "text": "Draw a ray diagram to show the formation of image when an object is placed between optical center and focus of a convex lens.",
-      "year": "2022",
-      "marks": 3,
       "answer": "When an object is placed between the optical center and the focus of a convex lens, the image formed is virtual, erect, and magnified on the same side as the object. \n[Diagram required – draw a convex lens with rays diverging and extending backward to form the image]."
     },
      {
       "text": "Explain the process of photosynthesis with a balanced chemical equation.",
-      "year": "2020",
-      "marks": 3,
       "answer": "Photosynthesis is the process by which green plants prepare their food using sunlight, carbon dioxide, and water. \nEquation: 6CO2 + 6H2O → C6H12O6 + 6O2 (in presence of sunlight and chlorophyll)"
     },
     {
       "text": "Differentiate between aerobic and anaerobic respiration.",
-      "year": "2021",
-      "marks": 2,
       "answer": "Aerobic respiration takes place in the presence of oxygen and releases more energy. Anaerobic respiration occurs without oxygen and releases less energy. \nExample: Aerobic – humans, Anaerobic – yeast."
     },
  
     {
       "text": "What are dominant and recessive traits? Give an example.",
-      "year": "2022",
-      "marks": 2,
       "answer": "Dominant traits are those that express themselves even in the presence of a contrasting allele. Recessive traits are expressed only in the absence of the dominant allele. \nExample: Tallness (T) is dominant over dwarfness (t) in pea plants."
     },
     {
       "text": "State Mendel's law of segregation.",
-      "year": "2021",
-      "marks": 2,
       "answer": "Mendel's law of segregation states that each individual possesses two alleles for each trait, and these alleles segregate (separate) during gamete formation, with each gamete receiving only one allele."
     }
   ]
