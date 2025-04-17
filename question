@@ -17,9 +17,8 @@
       "year": "2022",
       "marks": 2,
       "answer": "When zinc granules are added to dilute sulphuric acid, hydrogen gas is evolved and zinc sulphate is formed. \nChemical equation: Zn + H2SO4 → ZnSO4 + H2↑"
-    }
-  ],
-  "electricity": [
+    },
+  
     {
       "text": "State Ohm's law. Write its mathematical expression.",
       "year": "2021",
@@ -37,9 +36,8 @@
       "year": "2020",
       "marks": 2,
       "answer": "Electric power is the rate at which electrical energy is consumed in a circuit. \nIt is given by: P = VI, where P is power, V is voltage, and I is current."
-    }
-  ],
-  "light": [
+    },
+ 
     {
       "text": "Define the term 'refractive index'. What is its unit?",
       "year": "2021",
@@ -51,10 +49,8 @@
       "year": "2022",
       "marks": 3,
       "answer": "When an object is placed between the optical center and the focus of a convex lens, the image formed is virtual, erect, and magnified on the same side as the object. \n[Diagram required – draw a convex lens with rays diverging and extending backward to form the image]."
-    }
-  ],
-  "life_processes": [
-    {
+    },
+     {
       "text": "Explain the process of photosynthesis with a balanced chemical equation.",
       "year": "2020",
       "marks": 3,
@@ -65,9 +61,8 @@
       "year": "2021",
       "marks": 2,
       "answer": "Aerobic respiration takes place in the presence of oxygen and releases more energy. Anaerobic respiration occurs without oxygen and releases less energy. \nExample: Aerobic – humans, Anaerobic – yeast."
-    }
-  ],
-  "heredity": [
+    },
+ 
     {
       "text": "What are dominant and recessive traits? Give an example.",
       "year": "2022",
