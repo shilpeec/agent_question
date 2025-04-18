@@ -1,6 +1,6 @@
 # agent_question
 
-This project is a Chrome Extension + FastAPI backend that helps students quickly find answers to CBSE Class 10 Science questions. It uses a two-level system:
+This project is a Chrome Extension + FastAPI backend that helps students quickly find answers to Science questions. It uses a two-level system:
 
 Memory Lookup: Searches in a local database (JSON file).
 
