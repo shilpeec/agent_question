@@ -20,7 +20,7 @@ Every response includes an agentic trace (Perception → Memory → Decision →
 
 🧪 Includes a CLI script for testing
 
-seconduc/
+Answermethirduc/
 ├── my_extension/
 │   ├── popup.html            # Extension popup UI
 │   ├── popup.js              # Logic for sending query to background
