@@ -61,7 +61,29 @@ act(prompt) | Sends the prompt to Gemini LLM and logs the raw and cleaned respon
 observe() | Returns the final answer text.
 run() | Runs all steps sequentially.
 
+Chrome Extension
+Components:
+
+popup.html — Frontend interface for user input.
+popup.js — Handles user interaction and message passing.
+background.js — Handles communication between the popup and the backend.
+manifest.json — Declares permissions and configures the extension.
+
+Setup Instructions
+
  Add .env File
  GEMINI_API_KEY=your_google_gemini_api_key
+
+ Install Python Dependencies
+
+ Run the Backend
+ uvicorn server:app --reload
+
+ Load the Chrome Extension
+
+Go to chrome://extensions
+Enable Developer Mode
+Click Load unpacked
+Select the my_extension folder
 
 
