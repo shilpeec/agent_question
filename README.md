@@ -36,7 +36,7 @@ Answermethirduc/
 ├── server.py                 # FastAPI backend server
 ├── main.py                   # Optional script to run the logic in CLI
 ├── .env                      # Gemini API key
-└── README.md                 # You're here!
+└── README.md                 
 
 
 
