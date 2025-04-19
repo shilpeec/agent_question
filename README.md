@@ -37,3 +37,31 @@ Answermethirduc/
 ├── main.py                   # Optional script to run the logic in CLI
 ├── .env                      # Gemini API key
 └── README.md                 # You're here!
+
+
+
+Workflow: Step-by-Step
+User Query → [Perception]
+                 ↓
+        [Search Local Memory]
+                 ↓
+     [Decision: Create Prompt]
+                 ↓
+    [Action: Call Gemini LLM]
+                 ↓
+     [Observation: Return Answer]
+
+
+Breakdown of AgenticWorkflow
+Method | Description
+perceive() | Logs the received query and subject.
+search_memory() | Loads local JSON-based question bank (load_science_questions()).
+decide() | Builds a prompt using Jinja2 + prompts/system_prompt.txt. Falls back if error.
+act(prompt) | Sends the prompt to Gemini LLM and logs the raw and cleaned response.
+observe() | Returns the final answer text.
+run() | Runs all steps sequentially.
+
+ Add .env File
+ GEMINI_API_KEY=your_google_gemini_api_key
+
+
